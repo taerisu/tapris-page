@@ -27,17 +27,17 @@ body {
 .top .card button {
   width: 10em;
   height: 4em;
-  background-color: #7575eb;
+  background-color: #cccccc;
   font-family: "Nunito", sans-serif;
   border: none;
   text-align: center;
   transition: 0.5s;
   background-size: 200% auto;
   border-radius: 2em;
-  color: white;
+  color: black;
 }
 .top .card button:hover {
-  background-color: #6969f7;
+  background-color: #aaaaaa;
 }
 
 @media only screen and (max-device-width: 480px) {
